@@ -1,0 +1,16 @@
+[OPTIONS]
+HCW=0
+COMPRESS=12 Hall Zeck
+CONTENTS=DefaultTopic-ID
+TITLE=New Project
+COPYRIGHT=© 2003 
+CITATION=paste and print
+DEFFONT=MS Sans Serif,8,0
+LCID=0x0409
+FTS=1
+CNT=.\Alladine.cnt
+HLP=.\Alladine.hlp
+[FILES]
+.\Alladine.rtf
+[WINDOWS]
+Main="Main window",(261,3,758,951),27904,(255,252,234),(198,198,198),f3

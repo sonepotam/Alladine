@@ -1,0 +1,19 @@
+;Delphi-generated INF file for AlladineActiveProj1dpr.ocx
+[Add.Code]
+AlladineActiveProj1dpr.ocx=AlladineActiveProj1dpr.ocx
+ALLADINE.HLP=ALLADINE.HLP
+Alladine.cnt=Alladine.cnt
+
+[AlladineActiveProj1dpr.ocx]
+file=http://uabo-common/uabo/alladine/2/AlladineActiveProj1dpr.cab
+clsid={66F31100-42FF-4BA3-B3A5-9AF7C0089976}
+RegisterServer=yes
+FileVersion=1,17,0,0
+
+[ALLADINE.HLP]
+file=http://uabo-common/uabo/alladine/2/AlladineActiveProj1dpr.cab
+
+
+[Alladine.cnt]
+file=http://uabo-common/uabo/alladine/2/AlladineActiveProj1dpr.cab
+
